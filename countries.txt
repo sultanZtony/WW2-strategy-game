@@ -1,0 +1,12 @@
+Japan
+126000000
+China
+480000000
+United States
+320000000
+Soviet Union
+200000000
+France
+66000000
+Poland
+37000000
